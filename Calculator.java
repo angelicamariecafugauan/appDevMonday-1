@@ -18,7 +18,7 @@ public static int add(int a, int b) {
     }
 
 
-    // Group 10: Check if numbers are equal (Members: Jake, Emily, Ryan)
+    // Group 10: Check if numbers are equal (Members: Cafugauan, Angelica Marie )
     public static boolean isEqual(int a, int b) {
         return a == b;
     }
